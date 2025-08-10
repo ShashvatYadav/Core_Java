@@ -1,0 +1,4 @@
+interface Ola
+{
+	void driver();
+}

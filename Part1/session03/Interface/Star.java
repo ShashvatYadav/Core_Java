@@ -1,0 +1,4 @@
+interface Star
+{
+	 void shine();
+}
