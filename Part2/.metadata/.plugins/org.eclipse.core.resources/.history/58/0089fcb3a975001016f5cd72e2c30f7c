@@ -1,7 +1,0 @@
-package com.Demo.Cat;
-
-public class Cat {
-	final public static void main(String[] args) {
-		System.out.println()
-	}
-}
